@@ -1,0 +1,13 @@
+fastapi~=0.115.6
+uvicorn
+pydantic~=2.8.2
+firebase-admin~=6.6.0
+pyjwt~=2.10.1
+sqlalchemy~=2.0.36
+psycopg2
+python-dotenv
+requests~=2.32.3
+pytest~=8.3.4
+pytest-mock
+httpx~=0.28.1
+starlette~=0.41.3
